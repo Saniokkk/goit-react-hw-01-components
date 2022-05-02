@@ -1,0 +1,12 @@
+table th,
+table td {
+  padding: 10px;
+  /* text-align: center; */
+  border: 1px solid #b1a7a7;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
+
+tr.row:nth-child(2n) {
+  background: rgb(229, 229, 229);
+}

@@ -1,0 +1,10 @@
+.transactionHistory {
+  width: 320px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  box-shadow: 0 5px 15px rgb(161, 161, 161);
+}
+
+thead {
+  background-color: aquamarine;
+}
